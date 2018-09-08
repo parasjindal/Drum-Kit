@@ -1,0 +1,21 @@
+.Sound {
+    border-style: solid;
+    background-color: black;
+    color: bisque;
+    border-color: yellow;
+    height: 40;
+    width: 40;
+    text-align: center;
+    padding:20;
+    margin: 5;
+    display: inline-block;
+}
+.key {
+    font-size: 30;
+    color: bisque;
+}
+.Sounds {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
